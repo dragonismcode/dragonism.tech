@@ -1,7 +1,7 @@
 <template>
   <div class="hero-simple-centered">
-    <div class="mt-5 mb-5 mx-auto max-w-screen-xl">
-      <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
+    <div class="mt-5 mb-10 mx-auto max-w-screen-xl">
+      <div class="mt-5 flex items-center justify-center" >
         <a href="https://www.youtube.com/channel/UCsEVM5Wo7Ler5eROZMGPNSA"><svg
           class="mx-3 fill-red-500 hover:fill-red-400 focus:outline-none focus:ring-primary transition duration-150 ease-in-out"
           width="25"

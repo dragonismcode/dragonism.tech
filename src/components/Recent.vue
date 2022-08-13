@@ -15,7 +15,7 @@
       <div class="px-6 pt-4 pb-2">
         <div class="font-bold text-xl mb-2">proximity-hill</div>
         <p class="text-gray-700 text-base">
-          A node-hill script that integrates PeerJS voice chat with proximity volume.
+          A node-hill script that integrates PeerJS voice chat with proximity volume. Expirementing with sockets and math!
         </p>
       </div>
       <div class="px-6 pt-2 pb-4">
