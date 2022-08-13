@@ -11,10 +11,10 @@
         </h2>
   <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
     <!--Card 1-->
-    <div class="rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-out rounded-md">
+    <div class="dark:bg-gray-800 rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-out rounded-md">
       <div class="px-6 pt-4 pb-2">
         <div class="font-bold text-xl mb-2">proximity-hill</div>
-        <p class="text-gray-700 text-base">
+        <p class="text-gray-700 dark:text-gray-500 text-base">
           A node-hill script that integrates PeerJS voice chat with proximity volume. Expirementing with sockets and math!
         </p>
       </div>
@@ -24,10 +24,10 @@
       </div>
     </div>
     <!--Card 2-->
-    <div class="rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-out rounded-md">
+    <div class="dark:bg-gray-800 rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-out rounded-md">
       <div class="px-6 pt-4 pb-2">
         <div class="font-bold text-xl mb-2">dragonism.tech</div>
-        <p class="text-gray-700 text-base">
+        <p class="text-gray-700 dark:text-gray-500 text-base">
           My personal website to show off my skills and projects. Displays my socials and where to find and contact me.
         </p>
       </div>
@@ -38,11 +38,11 @@
     </div>
 
     <!--Card 3-->
-    <div class="rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-outrounded-md">
+    <div class="dark:bg-gray-800 rounded overflow-hidden shadow-lg hover:shadow-2xl transition duration-500 ease-in-outrounded-md">
       <div class="px-6 pt-4 pb-2">
         <div class="font-bold text-xl mb-2">BenBot</div>
-        <p class="text-gray-700 text-base">
-          BenBot is a random/fun bot for DogeHouse. With a variety of commands, it brings fun to every DogeHouse room.
+        <p class="text-gray-700 dark:text-gray-500 text-base">
+          BenBot is a random/fun bot for <a href="https://github.com/benawad/dogehouse">DogeHouse</a>. With a variety of commands, it brings fun to every DogeHouse room.
         </p>
       </div>
       <div class="px-6 pt-2 pb-4">

@@ -5,7 +5,7 @@
     >
       <div class="text-center">
         <h2
-          class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl"
+          class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 dark:text-white sm:text-5xl sm:leading-none md:text-6xl"
         >
           Hi, I'm
 
@@ -36,7 +36,7 @@
             <div>
               <a
                 href="#"
-                class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-primary-500 bg-white hover:text-red-400 focus:outline-none focus:ring-blue transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+                class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-primary-500 bg-white dark:bg-gray-800 hover:text-red-400 focus:outline-none focus:ring-blue transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                 >Projects</a
               >
             </div>
